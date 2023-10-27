@@ -2,13 +2,15 @@
 layout: default
 ---
 
+![Students For Palestine](https://i.ibb.co/pyvtHk1/Students-For-Palestine.png)
+
 # 🇵🇸 PALESTINIAN SOLIDARITY RESOURCE LIST
 
 > Compiled by: [MRUSFP](https://www.instagram.com/mrusfp/) (Mount Royal University Students for Palestine)  
 
 ## PREAMBLE
 
-This list has been compiled by a small group of students at Mount Royal University (in Mohkinstis), none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are. If any of the following information and/or resources exist in contradiction to Palestinian calls to action, please email us at [mrusfp@gmail.com](mailto:mrusfp@gmail.com) or message us on instagram at [MRUSFP](https://www.instagram.com/mrusfp/) if you are able.
+This list has been compiled by a small group of students at Mount Royal University in Mohkínstsis, none of whom are Palestinian, Arab, or Muslim themselves. We have made a concerted effort to highlight and amplify the voices, perspectives, goals, and calls to action of those who are. If any of the following information and/or resources exist in contradiction to Palestinian calls to action, please email us at [mrusfp@gmail.com](mailto:mrusfp@gmail.com) or message us on instagram at [MRUSFP](https://www.instagram.com/mrusfp/) if you are able.
 Further, MRUSFP acknowledges the important distinction between Antisemitism and Anti-zionism; we do NOT support Anti Semitism in any way, and encourage those who have witnessed such instances (whether online or in person) to report them. [https://www.instagram.com/mrusfp/](https://www.instagram.com/mrusfp/)  
 
 # SECTION 1--GETTING EDUCATED  
@@ -42,7 +44,7 @@ Further, MRUSFP acknowledges the important distinction between Antisemitism and 
 * [Right to Be Free from Arbitrary Arrest, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/section-9-arbitrary-arrest)
 * [Rights Around Arrest and Detention, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/section-10)
 * [Canadian Constitution Act, 1982: Canadian Charter of Rights and Freedoms (Canada.ca)](https://laws-lois.justice.gc.ca/eng/Const/page-12.html)
-* [Protester Safety Infographic | Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
+* [Protester Safety Infographic - Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
 
 # SECTION 2--GETTING ACTIVE  
 
@@ -95,12 +97,12 @@ Further, MRUSFP acknowledges the important distinction between Antisemitism and 
 
 ## 3a. WRITING A LETTER TO YOUR LOCAL MP
 
-Calling for a ceasefire: You can call your MP demanding they join a growing number of MPs who are campaigning for the government of Canada to demand a ceasefire.[You can find talking points and instructions on how to call your MP on the Leadnow website4](https://act.leadnow.ca/call-ceasefire/).[You can also send a letter to all Canadian MPs calling for an immediate ceasefire through the National Council of Canadian Muslims website3](https://www.nccm.ca/ceasefire/).
+Calling for a ceasefire: You can call your MP demanding they join a growing number of MPs who are campaigning for the government of Canada to demand a ceasefire.[You can find talking points and instructions on how to call your MP on the Leadnow website](https://act.leadnow.ca/call-ceasefire/). [You can also send a letter to all Canadian MPs calling for an immediate ceasefire through the National Council of Canadian Muslims website](https://www.nccm.ca/ceasefire/).
 
 ### Template for letter to your local MP
 
 ```
-Dear \[MP's name\], I am writing to you as a constituent of your riding to express my deep concern about the ongoing violence in Palestine. The situation is dire and requires immediate attention from our government.
+Dear [MP's name], I am writing to you as a constituent of your riding to express my deep concern about the ongoing violence in Palestine. The situation is dire and requires immediate attention from our government.
 
 I urge you to call on the Canadian government to take immediate action to help end the violence and protect the human rights of Palestinians. Specifically, I ask that you call on the Canadian government to:
 
@@ -109,35 +111,36 @@ I urge you to call on the Canadian government to take immediate action to help e
 3. Suspend all arms sales to Israel until it complies with international law and respects the human rights of Palestinians.
 4. Support the International Criminal Court's investigation into war crimes committed by Israel in Palestine.
 
-As a Canadian citizen, I believe it is our government's responsibility to stand up for human rights and justice around the world. I am deeply committed to this issue, so much so that I feel compelled to inform you that should you not support the call for a ceasefire and the aforementioned actions, I will never vote for \[Your MP's Party\] again. You are plainly implicit in an active genocide. Instead, I will vote for the Progressive Conservative Party of Canada in the next election, even if it goes against my own interests, to ensure that individuals in office are willing to take a stand on this critical issue.
+As a Canadian citizen, I believe it is our government's responsibility to stand up for human rights and justice around the world. I am deeply committed to this issue, so much so that I feel compelled to inform you that should you not support the call for a ceasefire and the aforementioned actions, I will never vote for [Your MP's Party] again. You are plainly implicit in an active genocide. Instead, I will vote for the Progressive Conservative Party of Canada in the next election, even if it goes against my own interests, to ensure that individuals in office are willing to take a stand on this critical issue.
 
 I urge you to take action on this urgent matter and look forward to your prompt response.
 
 Thank you for your attention to this important issue.
 
-Sincerely, \[Your name\]
+Sincerely,
+[Your name]
 ```
 
 ## 3b. LEGAL RESOURCES
 
 General Legal Help:
 
-1. Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions[1](https://www.canlii.org/en).
-2. LegalTree.ca: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community 2](https://www.legaltree.ca/).
-3. Canada Legal Help: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community 3](https://canadalegalhelp.com/).
+1. Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions [1](https://www.canlii.org/en).
+2. LegalTree.ca: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community](https://www.legaltree.ca/).
+3. Canada Legal Help: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community](https://canadalegalhelp.com/).
 
 Specific Legal Help:
 
-* Legal Centre for Palestine (LCP): LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed 1](https://www.lcpal.ca/).
-* Palestine Legal Resource Canada (PLRC): PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction 2.
-* Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions 3.  
+* Legal Centre for Palestine (LCP): LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed](https://www.lcpal.ca/).
+* Palestine Legal Resource Canada (PLRC): PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction.
+* Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions.  
   
   
 
 ## 3c. UNORGANIZED INFORMATION
 
-* Palestinian Solidarity Groups in Canada: The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events1](https://www.canadapalestine.ca/).
-  * How to start a Palestine solidarity group in Canada: The Coalition of Canadian Palestinian Organizations has a guide on how to start a Palestine solidarity group in Canada.[The guide provides information on how to organize, plan, and execute events1](https://www.canadapalestine.ca/).
+* Palestinian Solidarity Groups in Canada: The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events](https://www.canadapalestine.ca/).
+  * How to start a Palestine solidarity group in Canada: The Coalition of Canadian Palestinian Organizations has a guide on how to start a Palestine solidarity group in Canada.[The guide provides information on how to organize, plan, and execute events](https://www.canadapalestine.ca/).
 * Legal Resources: 
 * Apartheid: Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[5](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/)[6](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/)[7](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/)[8](https://news.un.org/en/story/2022/03/1114702).
 * More info on Anti-Zionism: Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[9](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html)[10](https://www.bbc.com/news/magazine-36160928)[11](https://en.wikipedia.org/wiki/Anti-Zionism).
@@ -166,7 +169,7 @@ Specific Legal Help:
 * Attend rallies or protests: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
 * Sign petitions: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
 * Donate: Donating money can be an effective way to support organizations working towards justice for Palestine. Some organizations that accept donations include UNRWA USA (United Nations Relief and Works Agency), Medical Aid for Palestinians (MAP), and Defense for Children International - Palestine (DCIP).
-* Educate yourself: It is important to educate yourself about the situation in Palestine by reading books or articles written by Palestinian authors or journalists.[](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses)
+* Educate yourself: It is important to educate yourself about the situation in Palestine by [reading books or articles written by Palestinian authors or journalists](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses).
 * Support Palestinian businesses: Supporting Palestinian businesses can be an effective way to show your solidarity with Palestine. Check out websites such as BuyPalestinian.com or Palbox.co for more information.
 
 # SECTION 4--MEDIA
@@ -188,10 +191,10 @@ Specific Legal Help:
 
 ## 4C. ARTICLES  
 
-* [Letter to Secretary Blinken from US Organizations and Leaders in Solidarity with Palestinian Civil Society | Human Rights Watch](https://www.hrw.org/news/2021/10/29/letter-secretary-blinken-us-organizations-and-leaders-solidarity-palestinian-civil)
+* [Letter to Secretary Blinken from US Organizations and Leaders in Solidarity with Palestinian Civil Society - Human Rights Watch](https://www.hrw.org/news/2021/10/29/letter-secretary-blinken-us-organizations-and-leaders-solidarity-palestinian-civil)
 * [In solidarity with Palestine - Social Justice Fund NW](https://socialjusticefund.org/in-solidarity-with-palestine/)
 * ['Call to action': Ways to help groups who promote peace, provide relief to victims of the Israeli-Palestinian conflict](https://www.usatoday.com/story/news/world/2023/10/10/israeli-palestinian-conflict-how-to-help/71125353007/)
-* [Joint Statement: Over 150 Organizations Demand International Community Stand Against Raids and Closures of 7 Palestinian Organizations | Human Rights Watch](https://www.hrw.org/news/2022/08/22/joint-statement-over-150-organizations-demand-international-community-stand-against)  
+* [Joint Statement: Over 150 Organizations Demand International Community Stand Against Raids and Closures of 7 Palestinian Organizations - Human Rights Watch](https://www.hrw.org/news/2022/08/22/joint-statement-over-150-organizations-demand-international-community-stand-against)  
 
 ---
 
