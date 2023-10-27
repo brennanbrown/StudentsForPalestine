@@ -4,7 +4,7 @@ layout: default
 
 # 🇵🇸 PALESTINIAN SOLIDARITY RESOURCE LIST
 
-Compiled by: [MRUSFP](https://www.instagram.com/mrusfp/) (Mount Royal University Students for Palestine)  
+> Compiled by: [MRUSFP](https://www.instagram.com/mrusfp/) (Mount Royal University Students for Palestine)  
 
 ## PREAMBLE
 
@@ -35,12 +35,7 @@ Further, MRUSFP acknowledges the important distinction between Antisemitism and 
 
 ## 1b. PROTEST RIGHTS & PREPAREDNESS INFO
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 * [An Activist's Guide to Safer Protesting, PDF (Ontario Federation of Labour)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 * [Know Your Protest Rights, Calgary (Calgary.ca)](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html)
 * [Know Your Rights--Protesting (Canadian Civil Liberties Association)](https://ccla.org/wp-content/uploads/2021/07/Know-Your-Rights-Protesting.pdf)
 * [Dissent & Disobedience Overview, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/dissentdisobedience)
@@ -94,27 +89,7 @@ Further, MRUSFP acknowledges the important distinction between Antisemitism and 
 ## 2g. RESOURCES FOR DISTRIBUTION--PRINTABLES
 
 * [Printables List (CJPME)](https://www.cjpme.org/distribute)
-* [Protester Safety Infographic | Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
-
-## X. TO BE ADDED
-
-* PALESTINIAN SOLIDARITY GROUPS IN "CANADA":
-* LEGAL RESOURCES:
-* ADD DOCUMENTARY
-* ADD INFO ABOUT APARTHEID
-* ADD PREAMBLE RE: ANTI-ZIONISM
-* ADD PATREON FOR DECOLONIZE PALESTINE [Decolonize Palestine | creating educational resources | Patreon](https://www.patreon.com/decolonizepalestine)
-* ADD INFO ON AID BEING BLOCKED
-* LINK TO WEBINAR CJPME 
-* WAYS TO SUPPORT PALESTINIANS
-  * [Calgary -- Run for Palestine](https://runforpalestine.com/calgary/)
-  * [About Us - Jerusalem Shawarma](https://jerusalemshawarma.ca/about-us/) (Palestinian run)
-* VOICES TO AMPLIFY
-* UP-TO-DATE ARTICLES/INFORMATION
-* SOCIAL MEDIA ACCOUNTS
-* SPECIFIC PETITIONS
-* UPCOMING EVENTS
-* LOCAL/NATIONAL PALESTINIAN COMPANIES  
+* [Protester Safety Infographic by Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
 
 # SECTION 3--CURRENT INFORMATION AND MISC. INFO
 
@@ -124,6 +99,7 @@ Calling for a ceasefire: You can call your MP demanding they join a growing numb
 
 ### Template for letter to your local MP
 
+```
 Dear \[MP's name\], I am writing to you as a constituent of your riding to express my deep concern about the ongoing violence in Palestine. The situation is dire and requires immediate attention from our government.
 
 I urge you to call on the Canadian government to take immediate action to help end the violence and protect the human rights of Palestinians. Specifically, I ask that you call on the Canadian government to:
@@ -140,8 +116,7 @@ I urge you to take action on this urgent matter and look forward to your prompt 
 Thank you for your attention to this important issue.
 
 Sincerely, \[Your name\]
-
-## 
+```
 
 ## 3b. LEGAL RESOURCES
 
@@ -167,26 +142,26 @@ Specific Legal Help:
 * Apartheid: Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[5](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/)[6](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/)[7](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/)[8](https://news.un.org/en/story/2022/03/1114702).
 * More info on Anti-Zionism: Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[9](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html)[10](https://www.bbc.com/news/magazine-36160928)[11](https://en.wikipedia.org/wiki/Anti-Zionism).
 
-Current Situation on the Ground
+### Current Situation on the Ground
 
 * The situation on the ground in Palestine is dire, with ongoing human rights violations and violence against Palestinian civilians. According to Human Rights Watch, Israeli authorities have doubled down on policies to repress Palestinians and privilege Jewish Israelis, which amounts to the crimes against humanity of apartheid and persecution 1. Israel's occupation of Palestinian territory is unlawful under international law due to its permanence and the Israeli government's de facto annexation policies[2](https://news.un.org/en/story/2022/10/1129722). The United Nations Independent International Commission of Inquiry on the Occupied Palestinian Territory has found that there are reasonable grounds to conclude that the Israeli occupation of Palestinian territory is now unlawful under international law due to its permanence and the Israeli Government's de-facto annexation policies[3](https://www.ohchr.org/en/press-releases/2022/10/commission-inquiry-finds-israeli-occupation-unlawful-under-international-law).
 
-Human Rights Violations
+### Human Rights Violations
 
 * Human Rights Watch has documented serious violations of the laws of war and apparent war crimes during hostilities between Israel and Palestine, including Israeli strikes that killed scores of civilians and destroyed four high-rise Gaza towers full of homes and businesses, with no evident military targets in the vicinity 1. Amnesty International has reported that Palestinian authorities in the West Bank and Gaza Strip heavily restrict freedom of expression, association, and assembly. They also hold scores of people in arbitrary detention and subject many to torture and other ill-treatment[4](https://www.amnesty.org/en/location/middle-east-and-north-africa/palestine-state-of/report-palestine-state-of/).
 
-International Law
+### International Law
 
 * The United Nations Human Rights Council has decided to "urgently establish an ongoing, independent, international commission of inquiry to investigate, in the Occupied Palestinian Territory, including East Jerusalem, and in Israel, all alleged violations of international humanitarian law and abuses of international human rights law leading up to and since 13 April 2021"[5](https://www.uottawa.ca/research-innovation/events-all/reflections-international-law-israelpalestine-conflict-presentation-united-nations). The commission will investigate all underlying root causes of recurrent tensions, instability, and protraction of conflict, including systematic discrimination and repression based on national, ethnic, racial or religious identity.  
 
-Goals of the Palestinian Solidarity Movement
+### Goals of the Palestinian Solidarity Movement
 
 * The Palestine Solidarity Movement (PSM) is a student organization in the United States which was established after the start of the Al-Aqsa Intifada in Israel. The organization aims to use "divestment as a tactic to non-violently influence a just resolution to the Israeli-Palestinian conflict"[6](https://en.wikipedia.org/wiki/Palestine_Solidarity_Movement). The movement's goals include:
   * The right of return for Palestinians.
   * A full decolonization of all Palestinian land.
   * An end to the Israeli occupation[6](https://en.wikipedia.org/wiki/Palestine_Solidarity_Movement).
 
-Action Items
+### Action Items
 
 * Attend rallies or protests: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
 * Sign petitions: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
@@ -217,6 +192,8 @@ Action Items
 * [In solidarity with Palestine - Social Justice Fund NW](https://socialjusticefund.org/in-solidarity-with-palestine/)
 * ['Call to action': Ways to help groups who promote peace, provide relief to victims of the Israeli-Palestinian conflict](https://www.usatoday.com/story/news/world/2023/10/10/israeli-palestinian-conflict-how-to-help/71125353007/)
 * [Joint Statement: Over 150 Organizations Demand International Community Stand Against Raids and Closures of 7 Palestinian Organizations | Human Rights Watch](https://www.hrw.org/news/2022/08/22/joint-statement-over-150-organizations-demand-international-community-stand-against)  
+
+---
 
 PLEASE SEND SUGGESTED ADDITIONS/REVISIONS TO:
 
