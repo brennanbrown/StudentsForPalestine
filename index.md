@@ -33,7 +33,8 @@ Further, MRUSFP acknowledges the important distinction between Anti Semitism and
 * [CJPME Podcasts](https://www.cjpme.org/debrief)
 * [Common Media Missteps regarding Palestine-Israel Reporting (CJPME)](https://www.cjpmemap.ca/essays)
 * [The Meaning of Kufiyas (Keffiyehs) to Palestinians (Handmade Palestine)](https://handmadepalestine.com/en-ca/blogs/news/the-meaning-of-keffiyehs-to-palestinians)
-* [Palestinian Solidarity Across the Country and Around the World (Communist Party of Canada)](https://cpcml.ca/Tmlm2023/MS5315.HTM)  
+* [Palestinian Solidarity Across the Country and Around the World (Communist Party of Canada)](https://cpcml.ca/Tmlm2023/MS5315.HTM)
+* Watch the films on our [**Documentary list!**](https://studentsforpalestine.org/#4a-documentaries)  
 
 ## 1b. PROTEST RIGHTS & PREPAREDNESS INFO
 
@@ -125,24 +126,23 @@ Sincerely,
 
 ### General Legal Help
 
-1. Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions [1](https://www.canlii.org/en).
-2. LegalTree.ca: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community](https://www.legaltree.ca/).
-3. Canada Legal Help: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community](https://canadalegalhelp.com/).
+1. **Canadian Legal Information Institute (CanLII)**: CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions](https://www.canlii.org/en).
+2. **LegalTree.ca**: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community](https://www.legaltree.ca/).
+3. **Canada Legal Help**: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community](https://canadalegalhelp.com/).
 
 ### Specific Legal Help
 
-* Legal Centre for Palestine (LCP): LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed](https://www.lcpal.ca/).
-* Palestine Legal Resource Canada (PLRC): PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction.
-* Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions.  
+* **Legal Centre for Palestine (LCP)**: LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed](https://www.lcpal.ca/).
+* **Palestine Legal Resource Canada (PLRC)**: PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction.
+* **Canadian Legal Information Institute (CanLII)**: CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions.  
   
   
 ## 3c. UNORGANIZED INFORMATION
 
-* Palestinian Solidarity Groups in Canada: The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events](https://www.canadapalestine.ca/).
+* **Palestinian Solidarity Groups in Canada: **The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events](https://www.canadapalestine.ca/).
   * How to start a Palestine solidarity group in Canada: The Coalition of Canadian Palestinian Organizations has a guide on how to start a Palestine solidarity group in Canada.[The guide provides information on how to organize, plan, and execute events](https://www.canadapalestine.ca/).
-* Legal Resources: 
-* Apartheid: Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[1](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/), [2](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/), [3](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/), [4](https://news.un.org/en/story/2022/03/1114702).
-* More info on Anti-Zionism: Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/), [1](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html), [2](https://www.bbc.com/news/magazine-36160928), [3](https://en.wikipedia.org/wiki/Anti-Zionism).
+* **Apartheid:** Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/). Citations: [1](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/), [2](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/), [3](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/), [4](https://news.un.org/en/story/2022/03/1114702).
+* **More info on Anti-Zionism:** Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis. [This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/). Citations: [1](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html), [2](https://www.bbc.com/news/magazine-36160928), [3](https://en.wikipedia.org/wiki/Anti-Zionism).
 
 ### Current Situation on the Ground
 
@@ -165,23 +165,23 @@ Sincerely,
 
 ### Action Items
 
-* Attend rallies or protests: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
-* Sign petitions: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
-* Donate: Donating money can be an effective way to support organizations working towards justice for Palestine. Some organizations that accept donations include UNRWA USA (United Nations Relief and Works Agency), Medical Aid for Palestinians (MAP), and Defense for Children International - Palestine (DCIP).
-* Educate yourself: It is important to educate yourself about the situation in Palestine by [reading books or articles written by Palestinian authors or journalists](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses).
-* Support Palestinian businesses: Supporting Palestinian businesses can be an effective way to show your solidarity with Palestine. Check out websites such as BuyPalestinian.com or Palbox.co for more information.
+* **Attend rallies or protests**: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
+* **Sign petitions**: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
+* **Donate**: Donating money can be an effective way to support organizations working towards justice for Palestine. Some organizations that accept donations include UNRWA USA (United Nations Relief and Works Agency), Medical Aid for Palestinians (MAP), and Defense for Children International - Palestine (DCIP).
+* **Educate yourself**: It is important to educate yourself about the situation in Palestine by [reading books or articles written by Palestinian authors or journalists](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses).
+* **Support Palestinian businesses**: Supporting Palestinian businesses can be an effective way to show your solidarity with Palestine. Check out websites such as BuyPalestinian.com or Palbox.co for more information.
 
 # SECTION 4--MEDIA
 
 ## 4a. DOCUMENTARIES
 
-* [Little Palestine: Diary of a Siege: This harrowing documentary follows life among starving Palestinians in the Yarmouk camp as Syria's civil war raged about them](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria).
-* The Price of Oslo: This two-part documentary traces the secret road to the Oslo Accords, telling the story of negotiations that took place in the political shadows and a search for common ground amid a region in turmoil. [At the center of it all was an unlikely mediator: the Scandinavian country of Norway](https://www.aljazeera.com/features/2023/10/16/ten-films-to-watch-about-the-history-of-the-israel-palestine-conflict).
-* Al-Nakba: For Palestinians, 1948 marks the "Nakba" or "catastrophe", when hundreds of thousands were forced out of their homes. For Israelis, the same year marks the creation of their own state. This four-part series attempts to present an understanding of the events of the past that are still shaping the present.
+* [**Little Palestine: Diary of a Siege**](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria): This harrowing documentary follows life among starving Palestinians in the Yarmouk camp as Syria's civil war raged about them.
+* **The Price of Oslo**: This two-part documentary traces the secret road to the Oslo Accords, telling the story of negotiations that took place in the political shadows and a search for common ground amid a region in turmoil. [At the center of it all was an unlikely mediator: the Scandinavian country of Norway](https://www.aljazeera.com/features/2023/10/16/ten-films-to-watch-about-the-history-of-the-israel-palestine-conflict).
+* **Al-Nakba**: For Palestinians, 1948 marks the "Nakba" or "catastrophe", when hundreds of thousands were forced out of their homes. For Israelis, the same year marks the creation of their own state. This four-part series attempts to present an understanding of the events of the past that are still shaping the present.
 
 ## 4b. BOOKS
 
-* Some recommended books include **"The Hundred Years' War on Palestine"** by Rashid Khalidi, **"Gaza Writes Back" **edited by Refaat Alareer,** "The Ethnic Cleansing of Palestine"** by Ilan Pappe, **"Palestine: A Four Thousand Year History"** by Nur Masalha, among others.
+* Some recommended books include **"The Hundred Years' War on Palestine"** by Rashid Khalidi, **"Gaza Writes Back"** edited by Refaat Alareer, **"The Ethnic Cleansing of Palestine"** by Ilan Pappe, **"Palestine: A Four Thousand Year History"** by Nur Masalha, among others.
 * **After the Last Sky** by Edward Said: This book is a collection of essays that explore the history of Palestine and the Palestinian people, as well as their struggle for self-determination.
 * **Mural** by Mahmoud Darwish: This book is a collection of poems that reflect on the Palestinian experience, including themes of exile, identity, and resistance.
 * **My Happiness Bears No Relation to Happiness** by Adina Hoffman: This book tells the story of Palestinian poet Taha Muhammad Ali, who lived through some of the most tumultuous periods in Palestinian history.
