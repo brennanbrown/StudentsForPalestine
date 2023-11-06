@@ -2,6 +2,29 @@
 layout: default
 ---
 
+## Open Letter to Tim Rahilly and Mount Royal University's Board of Govenors: Immediate and Uncompromising Action Required
+
+We are writing to you with a profound sense of urgency and a weighty demand for action in response to the Israel-Arab war, which is continually escalating and deteriorating. The passive stance of our institution is intolerable when faced with the realities genocide. As members of the global community and as a body of an educational institution within Canada, we cannot continue to stand idly by. The bloodshed must stop, and Mount Royal University must not only vocalize but actualize its commitment to human rights.
+
+* Over 9,370 Palestinians have lost their lives since October 7th of this year, with fatalities including a significant number of women and children, who account for more than 62% of the deaths​.
+* Injuries have been reported to exceed 15,273 individuals, adding to the toll of human suffering​.
+* A staggering figure of at least 2,329 Palestinians were reported killed by October, underscoring a rapid escalation in the conflict​.
+* As of mid-October, the combined death toll in the Gaza Strip and West Bank reached 2,383, with over 10,814 injuries recorded​.
+
+The response thus far from MRU is---in essence---a silent affirmation of the genocide being committed. We must demand from our government that Canada change its course and no longer abstain from ceasefire votes on the international stage. It is incumbent upon us to use every resource, every bit of our collective influence, to lobby for an immediate cessation of hostilities.
+
+We are at a pivotal moment in history where our actions---or lack thereof---will be remembered. Our university has an obligation to embody the principles it teaches. [We must reflect on the history of our own institution's systemic biases and injustices, as reported.](https://calgaryherald.com/news/local-news/toxic-culture-at-mount-royal-university)
+
+We urge the issuing of a new, unambiguous statement that reflects the severity of the situation and MRU's unwavering commitment to peace and justice, and this should be disseminated across all university channels, calling for direct action from every member of the community. Furthermore, MRU must provide tangible ways for individuals to contribute to peace efforts and to aid those affected by the conflict.
+
+Should our calls for a resolute stance be ignored, be assured that the student body and the wider community will not remain silent. We will escalate our efforts, ensuring that our advocacy for the cessation of this conflict is at the forefront of our educational pursuits. In the unfortunate event our voices are not heard, and no change is made---or if we are asked to shut down our efforts, we will not shut down. Students who care about innocent lives outnumber a small but powerful group who runs the school. We will persist and maintain difficulty. There are many modes of protest if we are met with pushback. We will voice our concerns and plead for a ceasefire in every email signature, in every discussion forum post for our classes, in the footer of every page of every assignment, and distribute pins and stickers free of charge. This is a promise of unyielding advocacy for what is just.
+
+We are beyond the point of calls for peace. We demand action; we demand it now. Let it be known that Mount Royal University stands.
+
+We expect a swift response and immediate action.
+
+---
+
 ## Letter to Faculty for Organizing a Die-In Protest to Raise Awareness of the Genocide in Gaza
 
 Dear Professors and Faculty of Mount Royal University,
