@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-**Call to Action: Organizing a Die-In Protest to Raise Awareness of the Humanitarian Crisis in Gaza**
+
+## Letter to Faculty for Organizing a Die-In Protest to Raise Awareness of the Genocide in Gaza
 
 Dear Professors and Faculty of Mount Royal University,
 
-I hope this letter finds you in good health and high spirits. I am writing to draw your attention to the escalating and heartbreaking humanitarian crisis unfolding in Gaza. As of 2023, the region is witnessing an unprecedented level of violence and civilian casualties due to the conflict between Israeli forces and Hamas. Recent reports suggest that at least 3,793 people, mostly civilians including more than 1,500 children, have been killed since October 7, with the death toll nearing 9,000. The continuous bombardments have not only resulted in a loss of lives but have also obliterated essential infrastructure, leaving the healthcare system on the brink of collapse amidst a dire shortage of life-saving medication, equipment, and other essential supplies.
+I am writing to draw your attention to the escalating crisis unfolding in Gaza. As of November 2023, the region is witnessing an unprecedented level of violence and civilian casualties due to the conflict between Israeli forces and Hamas. Recent reports suggest that at least 3,793 people, mostly civilians including more than 1,500 children, have been killed since October 7, with the death toll nearing 9,000. The continuous bombardments have not only resulted in a loss of lives but have also obliterated essential infrastructure, leaving the healthcare system on the brink of collapse amidst a dire shortage of life-saving medication, equipment, and other essential supplies.
 
-In light of these disturbing developments, I believe it is crucial for us, as a community dedicated to education and social justice, to raise our voices against the atrocities and advocate for the innocent lives caught in the crossfire. I am thus proposing to organize a Die-In Protest at Mount Royal University to raise awareness about the humanitarian crisis in Gaza and to urge for an immediate cessation of violence.
+In light of these disturbing developments, I believe it is crucial for us, as a community dedicated to education and social justice, to raise our voices against the atrocities and advocate for the innocent lives. I am thus proposing to organize a Die-In Protest at Mount Royal University to raise awareness about the humanitarian crisis in Gaza and to urge for an immediate cessation of violence.
 
 I am humbly requesting your support in organizing this protest and would be honored if you could also lend your voice by speaking at the event. Your esteemed presence and insightful words would undoubtedly lend significant weight to our cause and help in mobilizing more support.
 
@@ -15,7 +16,7 @@ Here’s a brief outline of the proposed event:
 
 - **Date and Time:** TBD
 - **Venue:** Main Street, Mount Royal University
-- **Event Format:** Die-in Protest followed by speeches from faculty members and guest speakers
+- **Event Format:** Die-in Protest with speeches from faculty members and guest speakers
 
 The aim of this protest is to:
 
@@ -32,3 +33,4 @@ Thank you for your time and consideration.
 Warmest regards,
 Emily Beckley (They/Them)
 B. Kenneth Brown (He/Him)
+
