@@ -17,6 +17,8 @@ Further, MRUSFP acknowledges the important distinction between Anti Semitism and
 
 ## 1a. GENERAL INFO & EDUCATIONAL RESOURCES
 
+### Educational Articles and Factsheets
+
 * [How You Can be an Ally to Palestine (Handmade Palestine)](https://handmadepalestine.com/blogs/news/how-you-can-be-an-ally-to-palestine)
 * [Canadian Justice and Peace for the Middle East (CJPME) Factsheet List](https://www.cjpme.org/factsheets)
   * [Israel's System of Apartheid (CJPME)](https://www.cjpme.org/fs_229)
@@ -25,84 +27,271 @@ Further, MRUSFP acknowledges the important distinction between Anti Semitism and
   * [Palestinians and the Right to Resist (CJPME)](https://www.cjpme.org/fs_236)
   * [Israel's Extremist Right-Wing Government (CJPME)](https://www.cjpme.org/fs_237)
   * [The Blockade of Gaza (CJPME)](https://www.cjpme.org/fs_230)
+
+### Myth-Busting and Reading Lists
+
 * [Busting Myths About Palestine (Decolonize Palestine)](https://decolonizepalestine.com/myths/)
 * [Reading List (Decolonize Palestine)](https://decolonizepalestine.com/reading-list/)
+
+### Maps and Visual Resources
+
 * [Maps (CJPME)](https://www.cjpme.org/maps)
   * [Maps and Flyers (CJPME)](https://www.cjpme.org/flyers_and_maps)
+* [Visualizing Palestine](https://visualizingpalestine.org/) - Interactive platforms and infographics on topics like "We Had Dreams: Palestinians Living and Dying Under Siege in Gaza" and "Palestine Open Maps".
+
+### Boycott, Divestment, and Sanctions (BDS)
+
 * [What is the Boycott, Divestment, and Sanctions movement? (BDS)](https://bdsmovement.net/?q=node/52)
+
+### Podcasts and Media Analysis
+
 * [CJPME Podcasts](https://www.cjpme.org/debrief)
-* [Common Media Missteps regarding Palestine-Israel Reporting (CJPME)](https://www.cjpmemap.ca/essays)
+* [Common Media Missteps regarding Palestine-Israel Reporting (CJPME)](https://www.cjpmemap.ca/essays)  
+
+### Cultural Significance and Solidarity
+
 * [The Meaning of Kufiyas (Keffiyehs) to Palestinians (Handmade Palestine)](https://handmadepalestine.com/en-ca/blogs/news/the-meaning-of-keffiyehs-to-palestinians)
 * [Palestinian Solidarity Across the Country and Around the World (Communist Party of Canada)](https://cpcml.ca/Tmlm2023/MS5315.HTM)
-* Watch the films on our [**Documentary list!**](https://studentsforpalestine.org/#4a-documentaries)  
+
+### Current Situation Reports
+
+* [Current Situation Overview (Human Rights Watch)](https://www.hrw.org/report/2021/04/27/threshold-crossed/israeli-authorities-and-crimes-apartheid-and-persecution) - As of May 2024, the situation in Palestine remains dire. Israeli authorities have intensified their restrictive policies, leading to significant humanitarian impacts. The blockade of Gaza has tightened, severely limiting the entry of essential goods and medical supplies, exacerbating the already critical living conditions.
+* [Current Situation Overview (Amnesty International)](https://www.amnesty.org/en/latest/news/2024/05/israel-opt-israeli-air-strikes-that-killed-44-civilians-further-evidence-of-war-crimes-new-investigation/) - Violence against Palestinians has surged, with reports of excessive use of force by Israeli military forces in the West Bank, resulting in numerous civilian casualties and significant destruction of infrastructure.
+* [UN Reports on Palestine](https://www.un.org/en/situation-occupied-palestinian-territory-and-israel/media-and-resources) - Latest updates and detailed reports from the United Nations on the ongoing crisis.
+
+### Humanitarian and Legal Resources
+
+* [UNRWA - Palestine Refugee Agency](https://www.unrwa.org/) - Information on the humanitarian efforts and challenges faced by Palestinian refugees.
+* [B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories](https://www.btselem.org/) - Extensive resources on human rights violations and advocacy for Palestinian rights.
+* [Teach Palestine Project](https://teachpalestine.org/) - Curriculum resources, lesson plans, and multimedia teaching tools such as "Determined to Stay: Palestinian Youth Fight for Their Village".
+* [US Campaign for Palestinian Rights (USCPR)](https://uscpr.org/) - Resources on organizing, advocacy, and grassroots campaigns like "End U.S. Military Funding to Israel" and "Ethical Travel to Palestine".
+
+### Multimedia Resources
+
+* [Watch the films on our Documentary list!](https://studentsforpalestine.org/#4a-documentaries)
+
+## 
 
 ## 1b. PROTEST RIGHTS & PREPAREDNESS INFO
 
+### Know Your Rights
+
 * [An Activist's Guide to Safer Protesting, PDF (Ontario Federation of Labour)](https://ofl.ca/wp-content/uploads/2019.02.11-OFL-Safe-Protesting-A-Guide-to-Your-Rights-web.pdf)
 * [Know Your Protest Rights, Calgary (Calgary.ca)](https://www.calgary.ca/cps/community-programs-and-resources/protesting-in-calgary.html)
-* [Know Your Rights--Protesting (Canadian Civil Liberties Association)](https://ccla.org/wp-content/uploads/2021/07/Know-Your-Rights-Protesting.pdf)
+* [Know Your Rights--Protesting (Canadian Civil Liberties Association)](https://ccla.org/know-your-rights-protesting/)
 * [Dissent & Disobedience Overview, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/dissentdisobedience)
 * [Right to Be Free from Arbitrary Arrest, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/section-9-arbitrary-arrest)
 * [Rights Around Arrest and Detention, Alberta (Alberta Civil Liberties Resource Center)](https://www.aclrc.com/section-10)
 * [Canadian Constitution Act, 1982: Canadian Charter of Rights and Freedoms (Canada.ca)](https://laws-lois.justice.gc.ca/eng/Const/page-12.html)
-* [Protester Safety Infographic - Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
+
+### Safety and Preparedness Tips
+
+* [Protester Safety Infographic - Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)
+* [Tips for Protesting Peacefully and Safely (Human Rights Campaign)](https://www.hrc.org/news/tips-for-protesting-peacefully-and-safely) - Provides guidelines on staying hydrated, bringing necessary supplies, protecting yourself from chemical irritants, and having a plan for emergencies.
+* [Protesters' Rights (ACLU)](https://www.aclu.org/know-your-rights/protesters-rights) - Details your rights in public spaces, the necessity of permits, and what to do if your rights are violated.
+* [Protest rights and safety (ACLU of Washington)](https://www.aclu-wa.org/pages/protest-rights-and-safety) - Emphasizes the importance of planning ahead, protecting physical and mental health, and safeguarding privacy while protesting.
+* [Right to protest (Amnesty International)](https://www.amnesty.org/en/latest/news/2024/05/right-to-protest) - Discusses the intersection of discrimination and protest rights, the militarization of police, and safety from abusive law enforcement tactics.
+
+### Additional Resources
+
+# 
 
 # SECTION 2--GETTING ACTIVE  
 
 ## 2a. JOIN A PROTEST (CALGARY)
 
-* [Justice for Palestine (JFP) Calgary Facebook](https://www.facebook.com/JFPCalgary/)
-* [Justice for Palestine (JFP) Calgary Instagram](https://www.instagram.com/jfpcalgary?igshid=MzRlODBiNWFlZA%3D%3D)
-* Check Section 1b. "PROTEST RIGHTS & PREPAREDNESS INFO" above before attending  
+### Upcoming Protests and Events
+
+* [Justice for Palestine (JFP) Calgary Facebook](https://www.facebook.com/JFPCalgary/) - Follow for updates on upcoming protests and events.
+* [Justice for Palestine (JFP) Calgary Instagram](https://www.instagram.com/jfpcalgary?igshid=MzRlODBiNWFlZA%3D%3D) - Stay informed on the latest actions and solidarity events in Calgary.
+
+### Recent and Ongoing Protests
+
+* FILL INFO HERE
+
+### General Protest Participation Tips
+
+* Check Section 1b. Protest Rights & Preparedness Info above before attending any protests to ensure you are informed about your rights and safety measures.  
 
 ## 2b. ONLINE CAMPAIGNS & GOVERNMENT REPRESENTATIVE EMAIL LINKS
+
+### Email and Call Campaigns
 
 * [Email Trudeau: Stop International Court of Justice from Blocking Investigation into Israel (CJPME)](https://www.cjpme.org/icj_investigation)
 * [Phone your Member of Parliament (MP): Call for a Ceasefire (CJPME)](https://www.cjpme.org/phone_for_ceasefire)
 * [Tell Quebec Premier: Don't Open a Trade Office in Israel (CJPME)](https://www.cjpme.org/quebec_tel_aviv)
-* [List of Global BDS Campaigns (BDS)](https://bdsmovement.net/campaigns)  
+
+### Boycott, Divestment, and Sanctions (BDS) Campaigns
+
+* [List of Global BDS Campaigns (BDS)](https://bdsmovement.net/campaigns) - Engage in various global campaigns to boycott, divest, and sanction companies and institutions supporting Israeli apartheid.
+* [No Tech for Apartheid (Jewish Voice for Peace)](https://www.notechforapartheid.com/) - Campaign against tech companies profiting from Israeli apartheid, such as those involved in surveillance and military technologies.
+
+### Protest and Solidarity Campaigns
+
+* [Palestine Solidarity Campaign: Take Action for Palestine](https://palestinecampaign.eaction.online/) - Participate in ongoing campaigns like "Stop HP", "Challenge BBC Reporting", and "Boycott, Divestment & Sanctions (BDS)".
+* [US Campaign for Palestinian Rights: Current Campaigns](https://uscpr.org/campaigns) - Engage in impactful campaigns such as "End U.S. Military Funding to Israel", "End Greenwashing", "Demilitarize U.S. to Palestine", and more.
+
+### Advocacy and Petition Campaigns
+
+* [Freedom is the Future (US Campaign for Palestinian Rights)](https://freedomfuture.org/) - Advocate for a rights-based, accountability-oriented framework to support Palestinian liberation and justice.
+* [Not On Our Dime!](https://www.notonourdime.com/) - A campaign to end financial support for Israeli military operations and apartheid practices.
+
+### Additional Resources
+
+* [Join USCPR Youth Fellows](https://uscpr.org/networks/youthfellows/) - Get involved with the youth fellowship program to develop leadership skills and advocate for Palestinian rights.
+* [Support Ethical Travel to Palestine](https://uscpr.org/ethical-travel) - Learn about and engage in ethical travel practices that support Palestinian communities and resist Israeli occupation.  
+  
 
 ## 2c. BOYCOTT INFO
 
-* [What Products & Companies to Boycott -- Scroll down in link (BDS)](https://bdsmovement.net/get-involved/what-to-boycott)
-* More comprehensive list: [Boycott List of Shame -- Canadian BDS Coalition](https://bdscoalition.ca/boycott-list-of-shame/)  
+### Consumer Boycott Targets
 
+* [What Products & Companies to Boycott -- Scroll down in link (BDS)](https://bdsmovement.net/get-involved/what-to-boycott) - This link provides a comprehensive list of companies and products to boycott due to their complicity in Israeli apartheid and occupation practices. Key targets include:
+  * Hewlett Packard (HP Inc) - Provides services to Israeli government agencies involved in human rights abuses.
+  * Puma - Sponsors the Israel Football Association, which includes teams based in illegal settlements.
+  * SodaStream - Operates in illegal Israeli settlements and has a history of exploiting Palestinian labor.
+  * Ahava - Produces cosmetics in illegal Israeli settlements.
+  * Carrefour - Supports Israeli military personnel involved in operations against Palestinians.
+  * Airbnb, Expedia, and Booking.com - List properties in illegal Israeli settlements.
+  * Barclays - Invests in companies supplying weapons and military equipment to Israel.
+
+### Divestment & Exclusion Targets
+
+* [Boycott List of Shame -- Canadian BDS Coalition](https://bdscoalition.ca/boycott-list-of-shame/) - This list highlights companies and institutions that should be excluded from procurement and investment due to their involvement in supporting Israeli apartheid. Key targets include:
+  * Elbit Systems - Israel's largest arms manufacturer, providing weapons and surveillance technology used in occupied territories.
+  * CAF - A Spanish construction firm building a light rail system in Jerusalem that crosses occupied Palestinian territory.
+  * HSBC and AXA - Major financial institutions investing in companies operating in Israeli settlements.
+
+### Academic and Cultural Boycott
+
+* [US Campaign for the Academic and Cultural Boycott of Israel (USACBI)](https://usacbi.org/) - Calls for the academic and cultural boycott of Israeli institutions that are complicit in the occupation and apartheid practices. This includes:
+  * Boycotting Study Abroad Programs - Campaigns to end participation in study abroad programs in Israel, which are seen as supporting the occupation.
+  * Campaigns to End Complicity in Israeli Universities - Encourages academic institutions worldwide to sever ties with Israeli universities involved in human rights abuses.
+
+### Ongoing and Grassroots Boycott Campaigns
+
+* [Act Now Against These Companies Profiting from the Genocide of the Palestinian People (BDS Movement)](https://bdsmovement.net/campaigns) - Detailed guide on targeted consumer boycotts, divestment, and pressure campaigns, including:
+  * Chevron - Profiting from natural resources in occupied territories.
+  * Teva Pharmaceuticals - Israeli pharmaceutical company involved in the occupation.
+  * Intel and Siemens - Providing technology used in the occupation infrastructure.
+* [Pro-Gaza Boycotts Impacting US Multinationals](https://english.elpais.com/economy-and-business/2024-02-18/pro-gaza-boycotts-take-a-toll-on-us-multinationals-in-the-middle-east-and-wider-muslim-world.html) - Highlights the economic impact of boycotts on companies like Coca-Cola and Pepsico, showing the power of consumer activism in supporting Palestinian rights.  
+  
+  
+
+---
+
+  
+  
 ## 2d. DONATION RESOURCES (NOT EXHAUSTIVE)
 
-* [Donate to The Media Accountability Project (CJPME)](https://www.cjpmemap.ca/donate)
-* [Appeal for Gaza: Aid Following War on Gaza (CJPME FOUNDATION)](https://www.cjpmefoundation.org/donate_earmark_humanitarian_2023)
-* [Gaza Farm Aid (CJPME Foundation)](http://www.gazafarmaid.ca/)
-* [Water for Gaza (CJPME Foundation)](https://www.cjpmefoundation.org/wfg)
-* [Help Gaza Breathe (CJPME Foundation)](https://www.cjpmefoundation.org/campaign_hgb)  
+### General Donation Channels
+
+* [Donate to The Media Accountability Project (CJPME)](https://www.cjpmemap.ca/donate) - Supports initiatives aimed at holding media outlets accountable for biased reporting and promoting accurate narratives about Palestine.
+* [Appeal for Gaza: Aid Following War on Gaza (CJPME FOUNDATION)](https://www.cjpmefoundation.org/donate_earmark_humanitarian_2023) - Provides essential humanitarian aid to Gaza, focusing on immediate relief and rebuilding efforts.
+
+### Specific Aid Initiatives
+
+* [Gaza Farm Aid (CJPME Foundation)](http://www.gazafarmaid.ca/) - Supports agricultural projects in Gaza, helping farmers sustain their livelihoods and provide food for local communities.
+* [Water for Gaza (CJPME Foundation)](https://www.cjpmefoundation.org/wfg) - Addresses the critical water crisis in Gaza by funding projects that ensure access to clean and safe drinking water.
+* [Help Gaza Breathe (CJPME Foundation)](https://www.cjpmefoundation.org/campaign_hgb) - Provides medical supplies and equipment to hospitals in Gaza to help treat respiratory illnesses and other medical conditions.
+
+### International and Specialized Organizations
+
+* [Direct Relief](https://www.directrelief.org/place/palestinian-territories/) - Delivers emergency medical assistance and disaster relief to improve the health and lives of people affected by poverty and emergencies, including in Palestine.
+* [World Vision](https://www.wvi.org/jerusalem-west-bank-gaza) - Supports children and families in Palestine by providing emergency supplies, safe spaces, and psychological services to help them recover from conflict.
+* [Save the Children](https://opt.savethechildren.net/) - Ensures children and families in Palestine have access to basic necessities, education, and mental health support.
+* [International Rescue Committee (IRC)](https://www.rescue.org/article/crisis-palestine-what-you-need-know) - Provides emergency aid, mental health support, and advocacy for Palestinian civilians affected by conflic.
+* [World Food Programme (WFP)](https://www.wfp.org/countries/palestine) - Delivers food assistance and supports local bakeries to help combat hunger and malnutrition in Gaza and the West Bank.
+* [Islamic Relief Canada](https://www.islamicreliefcanada.org/emergencies/palestine/) - Provides comprehensive humanitarian aid including food, clean water, medical supplies, and psychosocial support to families in Gaza.  
+  
 
 ## 2e. RESOURCES FOR REPORTING HATE & FOR CHALLENGING MEDIA BIAS
 
-* [Sign Up To Become A Media Responder (CJPME)](https://www.cjpmemap.ca/sign_up)
-* [Report Online Hate & Incitement Against Palestinians, Arabs, and Muslims (CJPME)](http://www.cjpme.org/accountability)
-* [General Link of Media to Challenge (CJPME)](https://www.cjpmemap.ca/alerts)
+### Reporting Hate and Incitement
+
+* [Sign Up To Become A Media Responder (CJPME)](https://www.cjpmemap.ca/sign_up) - Join the network of media responders to help counter biased reporting and advocate for balanced media coverage of Palestine.
+* [Report Online Hate & Incitement Against Palestinians, Arabs, and Muslims (CJPME)](http://www.cjpme.org/accountability) - Use this platform to report instances of online hate speech and incitement against Palestinian, Arab, and Muslim communities.
+
+### Challenging Media Bias
+
+* [General Link of Media to Challenge (CJPME)](https://www.cjpmemap.ca/alerts) - Access tools to challenge media bias and misinformation. Specific alerts include:
   * [Challenge Toronto Star For Unbalanced Article (CJPME)](https://www.cjpmemap.ca/alert_2023_10_25_toronto_star)
   * [Challenge CBC For Promoting Israeli Army Propaganda (CJPME)](https://www.cjpmemap.ca/2023_10_20_alert_cbc)
-  * [Challenge Calgary Herald/Sun For Removing Fact That Gaza Is Occupied From Article (CJPME)](https://www.cjpmemap.ca/aler_2023_10_18_calgary_sun_herald)  
-  
+  * [Challenge Calgary Herald/Sun For Removing Fact That Gaza Is Occupied From Article (CJPME)](https://www.cjpmemap.ca/aler_2023_10_18_calgary_sun_herald)
+
+### Additional Resources
+
+* [CfMM Report on Media Bias: Gaza 2023-24](https://cfmm.org.uk/resources/publication/cfmm-report-media-bias-gaza-2023-24/) - The Centre for Media Monitoring's latest report exposes significant biases in media coverage of the Gaza conflict. Key findings highlight the disparity in language and framing that favors Israeli narratives over Palestinian ones.
+* [Why Journalists are Speaking out Against Western Media Bias in Reporting on Israel-Palestine](https://institute.aljazeera.net/en/ajr/article/2561) - An in-depth analysis from Al Jazeera Media Institute reveals how biased language and selective framing in Western media dehumanize Palestinian victims while humanizing Israeli victims.
+* [A Closer Look at Media Bias in Reporting the Israel-Palestine Conflict](https://thewire.in/media/dead-versus-killed-a-closer-look-at-the-media-bias-in-reporting-israel-palestine-conflict) - The Wire provides a detailed examination of the biased language and framing used in Western media reports, highlighting the need for more balanced and accurate coverage.
 
 ## 2f. SURVEY LIST (GIVE YOUR FEEDBACK)
 
-* [Surveys (CJPME)](https://www.cjpme.org/surveys)  
+* [Surveys (CJPME)](https://www.cjpme.org/surveys) - Participate in surveys conducted by the Canadian Justice and Peace for the Middle East (CJPME) to share your views and contribute to the advocacy efforts for Palestinian rights.
 
 ## 2g. RESOURCES FOR DISTRIBUTION--PRINTABLES
 
-* [Printables List (CJPME)](https://www.cjpme.org/distribute)
-* [Protester Safety Infographic by Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html)  
+* [Printables List (CJPME)](https://www.cjpme.org/distribute) - Access a variety of printables from CJPME, including fact sheets, flyers, and infographics to distribute and raise awareness about Palestinian issues.
+* [Protester Safety Infographic | Meshkov & Breslin](https://www.meshkovbreslin.com/blog/2020/november/protester-safety-tips/index.html) - Download and distribute this infographic to ensure protesters are informed about safety measures and their rights during demonstrations.  
+
+## X. TO BE ADDED
+
+### Palestinian Solidarity Groups in Canada
+
+* [Coalition of Canadian Palestinian Organizations](https://www.canadapalestine.ca/) - This coalition consists of 25 non-partisan, registered non-profit organizations across Canada. They focus on humanitarian projects and political advocacy to protect Palestinian human rights.
+* [Canada Palestine Association (CPA)](http://cpavancouver.org/) - Based in Vancouver, CPA works to raise awareness and advocate for Palestinian rights through events, campaigns, and educational initiatives.
+* [Canadian BDS Coalition](https://bdscoalition.ca/) - This coalition includes various pro-Palestine solidarity groups across Canada, promoting justice through the Boycott, Divestment, and Sanctions (BDS) movement.
+* [Human Rights for All (HR4A)](http://www.hr4all.net/) - A Saskatoon-based group focusing on creating awareness of the Israeli system of apartheid and Canada's support for it, while engaging with local peace and justice groups.
+* [Anti-Imperialist Alliance (AIA) Ottawa](https://www.facebook.com/AIAOttawa) - Focuses on opposing Canadian and US imperialism and advocating for Palestinian liberation.
+
+### Aid Being Blocked
+
+* [Israel Continues to Block Aid into Northern Gaza (UN News)](https://news.un.org/en/story/2024/05/1091602) - Reports indicate that Israeli forces have been obstructing aid deliveries into northern Gaza, creating severe humanitarian crises. Despite calls from the UN and international community for open aid access, these blockages have persisted, exacerbating the dire conditions in the region.
+* [UN Chief Calls Blocked Gaza Aid a 'Moral Outrage' (VOA News)](https://www.voanews.com/a/un-chief-to-visit-gaza-border-as-israel-vows-rafah-attack/7539682.html) - UN Secretary-General Antonio Guterres has condemned the blocking of humanitarian aid to Gaza as a moral outrage, emphasizing the urgent need for unrestricted access to provide life-saving assistance to Palestinians.
+* [Aid Access Impeded in Gaza (UNRWA)](https://www.unrwa.org/resources/reports/unrwa-situation-report-109-situation-gaza-strip-and-west-bank-including-east-Jerusalem) - According to the UN Relief and Works Agency (UNRWA), access impediments continue to severely compromise the ability to deliver humanitarian aid to Gaza. Reports highlight that 30% of aid missions to northern Gaza have been denied by Israeli authorities since March 2024\.
+* [Israel's Blocking of Aid Creating 'Apocalyptic' Conditions in Gaza (Al Jazeera)](https://www.aljazeera.com/news/2024/03/07/israels-blocking-of-aid-creating-apocalyptic-conditions-in-gaza) - Israeli restrictions on aid deliveries have generated famine-like conditions in Gaza, undermining humanitarian efforts and leading to widespread suffering among the civilian population.
+
+### Local/National Palestinian Companies
+
+* [Run for Palestine](https://runforpalestine.com/calgary/) - Participate in the annual "Run for Palestine" event in Calgary. This event raises funds and awareness for Palestinian causes and brings the community together in solidarity.
+* [Jerusalem Shawarma](https://jerusalemshawarma.ca/about-us/) - A locally-owned Palestinian restaurant offering authentic Middle Eastern cuisine. Supporting businesses like Jerusalem Shawarma helps uplift the Palestinian community in Calgary.
+* [Calgary Palestinian Council](https://calgarypalestiniancouncil.ca/) - An organization dedicated to promoting the rights, heritage, and well-being of the Palestinian community in Calgary through outreach, education, and advocacy.
+* [Canadian Palestinian Organizations](https://www.canadapalestine.ca/) - A coalition of Canadian Palestinian organizations working to protect Palestinian human rights and promote their cause across Canada. They offer various ways to get involved and support their initiatives.
+* [Jerusalem Council of Canada](https://livewirecalgary.com/) - An advocacy group in Calgary that works to raise awareness and support for the Palestinian cause through events, education, and community engagement.
+
+### Voices to Amplify
+
+* [Miko Peled](https://www.instagram.com/mikopeled/) - An Israeli-American activist and author who advocates for Palestinian rights and provides a critical perspective on Israeli policies.
+* [Ahmed Eldin](https://www.instagram.com/ahmedeldin/) - A journalist and activist using his platform to share stories from Palestine and advocate for justice.
+* [Plestia Alaqad](https://twitter.com/plestiaaaq) - A journalist in Gaza who provides real-time updates and personal insights into life under siege.
+
+### Important Social Media Accounts
+
+* [7amleh - The Arab Center for Social Media Advancement](https://twitter.com/7amleh) - An organization that works to protect digital rights and counter censorship of Palestinian voices on social media.
+* [Quds News Network](https://www.instagram.com/qudsnen/) - Provides news and updates directly from Palestine, focusing on the impact of the occupation on daily life.
+* [Mariam Barghouti](https://twitter.com/MariamBarghouti) - A Palestinian writer and researcher who provides insightful commentary on the situation in Palestine and broader Middle East politics.
+* [Mohammed El-Kurd](https://www.instagram.com/mohammedelkurd/) - A writer and poet from Sheikh Jarrah, Jerusalem, who uses his platform to highlight the struggles of Palestinians under occupation.
+
+### Where/How to Find Up-to-Date Information
+
+* [Al Jazeera English - Palestine](https://www.aljazeera.com/where/palestine/) - Offers comprehensive news coverage and analysis on the latest developments in Palestine.
+* [Middle East Eye](https://www.middleeasteye.net/topics/palestine) - Provides news, reports, and op-eds on Palestinian issues, offering a balanced perspective on the conflict.
+* [Electronic Intifada](https://electronicintifada.net/) - An independent news publication focusing on Palestine, providing detailed reports and commentary on current events.
+* [B'Tselem](https://www.btselem.org/) - The Israeli Information Center for Human Rights in the Occupied Territories, offering reports and data on human rights violations in Palestine.
+* [If Americans Knew](https://ifamericansknew.org/) - Provides statistics and analysis on the Israel-Palestine conflict, highlighting the human impact of policies and actions.  
+  
+
+# 
 
 # SECTION 3--CURRENT INFORMATION AND MISC. INFO
 
 ## 3a. WRITING A LETTER TO YOUR LOCAL MP
 
-Calling for a ceasefire: You can call your MP demanding they join a growing number of MPs who are campaigning for the government of Canada to demand a ceasefire.[You can find talking points and instructions on how to call your MP on the Leadnow website](https://act.leadnow.ca/call-ceasefire/). [You can also send a letter to all Canadian MPs calling for an immediate ceasefire through the National Council of Canadian Muslims website](https://www.nccm.ca/ceasefire/).
+Calling for a ceasefire: You can call your MP demanding they join a growing number of MPs who are campaigning for the government of Canada to demand a ceasefire.[You can find talking points and instructions on how to call your MP on the Leadnow website4](https://act.leadnow.ca/call-ceasefire/).[You can also send a letter to all Canadian MPs calling for an immediate ceasefire through the National Council of Canadian Muslims website3](https://www.nccm.ca/ceasefire/).
 
 ### Template for letter to your local MP
 
-```
+```txt
 Dear [MP's name], I am writing to you as a constituent of your riding to express my deep concern about the ongoing violence in Palestine. The situation is dire and requires immediate attention from our government.
 
 I urge you to call on the Canadian government to take immediate action to help end the violence and protect the human rights of Palestinians. Specifically, I ask that you call on the Canadian government to:
@@ -118,86 +307,92 @@ I urge you to take action on this urgent matter and look forward to your prompt 
 
 Thank you for your attention to this important issue.
 
-Sincerely,
-[Your name]
-```
+Sincerely, [Your name]
+``` 
 
 ## 3b. LEGAL RESOURCES
 
-### General Legal Help
+General Legal Help:
 
-1. **Canadian Legal Information Institute (CanLII)**: CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions](https://www.canlii.org/en).
-2. **LegalTree.ca**: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community](https://www.legaltree.ca/).
-3. **Canada Legal Help**: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community](https://canadalegalhelp.com/).
+1. Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions[1](https://www.canlii.org/en).
+2. LegalTree.ca: LegalTree.ca is a collaborative legal resource that contains thousands of secondary sources on all areas of Canadian law.[It also contains legal content contributed by lawyers in the Canadian legal community 2](https://www.legaltree.ca/).
+3. Canada Legal Help: Canada Legal Help is a website that provides free legal information and resources.[It contains a database of legal resources organized by subject area, as well as research articles and news columns contributed by lawyers in the Canadian legal community 3](https://canadalegalhelp.com/).
 
-### Specific Legal Help
+Specific Legal Help:
 
-* **Legal Centre for Palestine (LCP)**: LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed](https://www.lcpal.ca/).
-* **Palestine Legal Resource Canada (PLRC)**: PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction.
-* **Canadian Legal Information Institute (CanLII)**: CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions.  
+* Legal Centre for Palestine (LCP): LCP is a Canadian-based center that provides legal advice and support to activists pursuing solidarity in the struggle for Palestinian rights.[They offer essential legal advice and support at a time when that role is urgently needed 1](https://www.lcpal.ca/).
+* Palestine Legal Resource Canada (PLRC): PLRC is an initiative of Just Peace Advocates that serves to bolster the Palestine solidarity movement across the country by challenging efforts to threaten, harass and legally bully activists into silence and inaction 2.
+* Canadian Legal Information Institute (CanLII): CanLII is a non-profit organization that provides free access to court judgments, tribunal decisions, statutes, and regulations from all Canadian jurisdictions 3.  
   
   
+
 ## 3c. UNORGANIZED INFORMATION
 
-* **Palestinian Solidarity Groups in Canada:** The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events](https://www.canadapalestine.ca/).
-  * How to start a Palestine solidarity group in Canada: The Coalition of Canadian Palestinian Organizations has a guide on how to start a Palestine solidarity group in Canada.[The guide provides information on how to organize, plan, and execute events](https://www.canadapalestine.ca/).
-* **Apartheid:** Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/). Citations: [1](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/), [2](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/), [3](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/), [4](https://news.un.org/en/story/2022/03/1114702).
-* **More info on Anti-Zionism:** Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis. [This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/). Citations: [1](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html), [2](https://www.bbc.com/news/magazine-36160928), [3](https://en.wikipedia.org/wiki/Anti-Zionism).
+* Palestinian Solidarity Groups in Canada: The Coalition of Canadian Palestinian Organizations is a coalition of organizations that work together to promote justice for Palestinians in Canada and Palestine.[They have a website where you can find more information about their work and events1](https://www.canadapalestine.ca/).
+  * How to start a Palestine solidarity group in Canada: The Coalition of Canadian Palestinian Organizations has a guide on how to start a Palestine solidarity group in Canada.[The guide provides information on how to organize, plan, and execute events1](https://www.canadapalestine.ca/).
+* Legal Resources: 
+* Apartheid: Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[5](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/)[6](https://www.amnesty.org/en/latest/news/2022/02/israels-apartheid-against-palestinians-a-cruel-system-of-domination-and-a-crime-against-humanity/)[7](https://www.amnesty.org/en/location/middle-east-and-north-africa/israel-and-occupied-palestinian-territories/report-israel-and-occupied-palestinian-territories/)[8](https://news.un.org/en/story/2022/03/1114702).
+* More info on Anti-Zionism: Anti-Zionism is the rejection of the idea of a Jewish state. It holds that the existence of Israel is per se immoral. It should be noted here that "anti-Zionism" does not denote a critical attitude toward the Israeli government. Anti-Zionism opposes the movement to create a Jewish state in the Middle East, roughly corresponding to the historical land of Israel, and thus support for the modern state of Israel. Amnesty International's new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis.[This amounts to apartheid as prohibited in international law](https://www.canadapalestine.ca/)[9](https://news.yahoo.com/anti-zionism-antisemitism-scale-064500578.html)[10](https://www.bbc.com/news/magazine-36160928)[11](https://en.wikipedia.org/wiki/Anti-Zionism).
 
-### Current Situation on the Ground
+Current Situation on the Ground
 
-* The situation on the ground in Palestine is dire, with ongoing human rights violations and violence against Palestinian civilians. According to Human Rights Watch, Israeli authorities have doubled down on policies to repress Palestinians and privilege Jewish Israelis, which amounts to the crimes against humanity of apartheid and persecution. [Israel's occupation of Palestinian territory is unlawful under international law due to its permanence and the Israeli government's de facto annexation policies.](https://news.un.org/en/story/2022/10/1129722). The United Nations Independent International Commission of Inquiry on the Occupied Palestinian Territory has found that there are reasonable grounds to conclude that the [Israeli occupation of Palestinian territory is now unlawful under international law due to its permanence and the Israeli Government's de-facto annexation policies. ](https://www.ohchr.org/en/press-releases/2022/10/commission-inquiry-finds-israeli-occupation-unlawful-under-international-law).
+* The situation on the ground in Palestine is dire, with ongoing human rights violations and violence against Palestinian civilians. According to Human Rights Watch, Israeli authorities have doubled down on policies to repress Palestinians and privilege Jewish Israelis, which amounts to the crimes against humanity of apartheid and persecution 1. Israel's occupation of Palestinian territory is unlawful under international law due to its permanence and the Israeli government's de facto annexation policies[2](https://news.un.org/en/story/2022/10/1129722). The United Nations Independent International Commission of Inquiry on the Occupied Palestinian Territory has found that there are reasonable grounds to conclude that the Israeli occupation of Palestinian territory is now unlawful under international law due to its permanence and the Israeli Government's de-facto annexation policies[3](https://www.ohchr.org/en/press-releases/2022/10/commission-inquiry-finds-israeli-occupation-unlawful-under-international-law).
 
-### Human Rights Violations
+Human Rights Violations
 
-* Human Rights Watch has documented serious violations of the laws of war and apparent war crimes during hostilities between Israel and Palestine, including Israeli strikes that killed scores of civilians and destroyed four high-rise Gaza towers full of homes and businesses, with no evident military targets in the vicinity. Amnesty International has reported that Palestinian authorities in the West Bank and Gaza Strip heavily restrict freedom of expression, association, and assembly. [They also hold scores of people in arbitrary detention and subject many to torture and other ill-treatment](https://www.amnesty.org/en/location/middle-east-and-north-africa/palestine-state-of/report-palestine-state-of/).
+* Human Rights Watch has documented serious violations of the laws of war and apparent war crimes during hostilities between Israel and Palestine, including Israeli strikes that killed scores of civilians and destroyed four high-rise Gaza towers full of homes and businesses, with no evident military targets in the vicinity 1. Amnesty International has reported that Palestinian authorities in the West Bank and Gaza Strip heavily restrict freedom of expression, association, and assembly. They also hold scores of people in arbitrary detention and subject many to torture and other ill-treatment[4](https://www.amnesty.org/en/location/middle-east-and-north-africa/palestine-state-of/report-palestine-state-of/).
 
-### International Law
+International Law
 
-* The United Nations Human Rights Council has decided to "urgently establish an ongoing, independent, international commission of inquiry to investigate, in the Occupied Palestinian Territory, including East Jerusalem, and in Israel, [all alleged violations of international humanitarian law and abuses of international human rights law leading up to and since 13 April 2021"](https://www.uottawa.ca/research-innovation/events-all/reflections-international-law-israelpalestine-conflict-presentation-united-nations). The commission will investigate all underlying root causes of recurrent tensions, instability, and protraction of conflict, including systematic discrimination and repression based on national, ethnic, racial or religious identity.  
+* The United Nations Human Rights Council has decided to "urgently establish an ongoing, independent, international commission of inquiry to investigate, in the Occupied Palestinian Territory, including East Jerusalem, and in Israel, all alleged violations of international humanitarian law and abuses of international human rights law leading up to and since 13 April 2021"[5](https://www.uottawa.ca/research-innovation/events-all/reflections-international-law-israelpalestine-conflict-presentation-united-nations). The commission will investigate all underlying root causes of recurrent tensions, instability, and protraction of conflict, including systematic discrimination and repression based on national, ethnic, racial or religious identity.  
 
-### Goals of the Palestinian Solidarity Movement
+Goals of the Palestinian Solidarity Movement
 
-* The Palestine Solidarity Movement (PSM) is a student organization in the United States which was established after the start of the Al-Aqsa Intifada in Israel. The organization aims to use "divestment as a tactic to non-violently influence a just resolution to the Israeli-Palestinian conflict". The movement's goals include:
+* The Palestine Solidarity Movement (PSM) is a student organization in the United States which was established after the start of the Al-Aqsa Intifada in Israel. The organization aims to use "divestment as a tactic to non-violently influence a just resolution to the Israeli-Palestinian conflict"[6](https://en.wikipedia.org/wiki/Palestine_Solidarity_Movement). The movement's goals include:
   * The right of return for Palestinians.
   * A full decolonization of all Palestinian land.
-  * An end to the Israeli occupation.
+  * An end to the Israeli occupation[6](https://en.wikipedia.org/wiki/Palestine_Solidarity_Movement).
 
-### Action Items
+Action Items
 
-* **Attend rallies or protests**: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
-* **Sign petitions**: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
-* **Donate**: Donating money can be an effective way to support organizations working towards justice for Palestine. Some organizations that accept donations include UNRWA USA (United Nations Relief and Works Agency), Medical Aid for Palestinians (MAP), and Defense for Children International - Palestine (DCIP).
-* **Educate yourself**: It is important to educate yourself about the situation in Palestine by [reading books or articles written by Palestinian authors or journalists](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses).
-* **Support Palestinian businesses**: Supporting Palestinian businesses can be an effective way to show your solidarity with Palestine. Check out websites such as BuyPalestinian.com or Palbox.co for more information.
+* Attend rallies or protests: Protests are a powerful way for students to show their support for Palestine. Check social media platforms such as Twitter or Facebook for information about upcoming protests or rallies near you.
+* Sign petitions: Signing petitions can be an effective way to show your support for Palestine. Change.org is a popular platform for petitions related to Palestine.
+* Donate: Donating money can be an effective way to support organizations working towards justice for Palestine. Some organizations that accept donations include UNRWA USA (United Nations Relief and Works Agency), Medical Aid for Palestinians (MAP), and Defense for Children International - Palestine (DCIP).
+* Educate yourself: It is important to educate yourself about the situation in Palestine by reading books or articles written by Palestinian authors or journalists.[](https://www.hrw.org/news/2017/06/04/israel-50-years-occupation-abuses)
+* Support Palestinian businesses: Supporting Palestinian businesses can be an effective way to show your solidarity with Palestine. Check out websites such as BuyPalestinian.com or Palbox.co for more information.
 
 # SECTION 4--MEDIA
 
 ## 4a. DOCUMENTARIES
 
-* [**Little Palestine: Diary of a Siege**](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria): This harrowing documentary follows life among starving Palestinians in the Yarmouk camp as Syria's civil war raged about them.
-* **The Price of Oslo**: This two-part documentary traces the secret road to the Oslo Accords, telling the story of negotiations that took place in the political shadows and a search for common ground amid a region in turmoil. [At the center of it all was an unlikely mediator: the Scandinavian country of Norway](https://www.aljazeera.com/features/2023/10/16/ten-films-to-watch-about-the-history-of-the-israel-palestine-conflict).
-* **Al-Nakba**: For Palestinians, 1948 marks the "Nakba" or "catastrophe", when hundreds of thousands were forced out of their homes. For Israelis, the same year marks the creation of their own state. This four-part series attempts to present an understanding of the events of the past that are still shaping the present.
+* [Little Palestine: Diary of a Siege: This harrowing documentary follows life among starving Palestinians in the Yarmouk camp as Syria's civil war raged about them1](https://www.theguardian.com/film/2023/oct/26/little-palestine-diary-of-a-siege-review-refugee-camp-yarmouk-syria).
+* The Price of Oslo: This two-part documentary traces the secret road to the Oslo Accords, telling the story of negotiations that took place in the political shadows and a search for common ground amid a region in turmoil. At the center of it all was an unlikely mediator: the Scandinavian country of Norway[2](https://www.aljazeera.com/features/2023/10/16/ten-films-to-watch-about-the-history-of-the-israel-palestine-conflict).
+* Al-Nakba: For Palestinians, 1948 marks the "Nakba" or "catastrophe", when hundreds of thousands were forced out of their homes. For Israelis, the same year marks the creation of their own state. This four-part series attempts to present an understanding of the events of the past that are still shaping the present2.
 
 ## 4b. BOOKS
 
-* Some recommended books include **"The Hundred Years' War on Palestine"** by Rashid Khalidi, **"Gaza Writes Back"** edited by Refaat Alareer, **"The Ethnic Cleansing of Palestine"** by Ilan Pappe, **"Palestine: A Four Thousand Year History"** by Nur Masalha, among others.
-* **After the Last Sky** by Edward Said: This book is a collection of essays that explore the history of Palestine and the Palestinian people, as well as their struggle for self-determination.
-* **Mural** by Mahmoud Darwish: This book is a collection of poems that reflect on the Palestinian experience, including themes of exile, identity, and resistance.
-* **My Happiness Bears No Relation to Happiness** by Adina Hoffman: This book tells the story of Palestinian poet Taha Muhammad Ali, who lived through some of the most tumultuous periods in Palestinian history.
-* **Footnotes in Gaza** by Joe Sacco: This graphic novel provides a detailed account of two massacres that took place in Gaza in 1956, and explores their impact on the Palestinian people.
-* **From Coexistence to Conquest** by Victor Kattan: This book examines the history of Israel's occupation of Palestine, and argues that it has been driven by a desire to expand its territory and control over the Palestinian people.
+* Some recommended books include "The Hundred Years' War on Palestine" by Rashid Khalidi 7, "Gaza Writes Back" edited by Refaat Alareer[8](https://cairoscene.com/ArtsAndCulture/Voices-of-Palestine-Podcasts-Amplifying-Silenced-Narratives), "The Ethnic Cleansing of Palestine" by Ilan Pappe[9](https://www.msn.com/en-us/news/opinion/the-person-covering-palestine-israel-best-is-piers-morgan/ar-AA1iU4fy), "Palestine: A Four Thousand Year History" by Nur Masalha[10](https://www.ubyssey.ca/news/between-the-motions-10-25/), among others.
+* After the Last Sky by Edward Said: This book is a collection of essays that explore the history of Palestine and the Palestinian people, as well as their struggle for self-determination 1.
+* Mural by Mahmoud Darwish: This book is a collection of poems that reflect on the Palestinian experience, including themes of exile, identity, and resistance 1.
+* My Happiness Bears No Relation to Happiness by Adina Hoffman: This book tells the story of Palestinian poet Taha Muhammad Ali, who lived through some of the most tumultuous periods in Palestinian history 1.
+* Footnotes in Gaza by Joe Sacco: This graphic novel provides a detailed account of two massacres that took place in Gaza in 1956, and explores their impact on the Palestinian people 1.
+* From Coexistence to Conquest by Victor Kattan: This book examines the history of Israel's occupation of Palestine, and argues that it has been driven by a desire to expand its territory and control over the Palestinian people 1.
 
 ## 4C. ARTICLES  
 
-* [Letter to Secretary Blinken from US Organizations and Leaders in Solidarity with Palestinian Civil Society - Human Rights Watch](https://www.hrw.org/news/2021/10/29/letter-secretary-blinken-us-organizations-and-leaders-solidarity-palestinian-civil)
+* [Letter to Secretary Blinken from US Organizations and Leaders in Solidarity with Palestinian Civil Society | Human Rights Watch](https://www.hrw.org/news/2021/10/29/letter-secretary-blinken-us-organizations-and-leaders-solidarity-palestinian-civil)
 * [In solidarity with Palestine - Social Justice Fund NW](https://socialjusticefund.org/in-solidarity-with-palestine/)
 * ['Call to action': Ways to help groups who promote peace, provide relief to victims of the Israeli-Palestinian conflict](https://www.usatoday.com/story/news/world/2023/10/10/israeli-palestinian-conflict-how-to-help/71125353007/)
-* [Joint Statement: Over 150 Organizations Demand International Community Stand Against Raids and Closures of 7 Palestinian Organizations - Human Rights Watch](https://www.hrw.org/news/2022/08/22/joint-statement-over-150-organizations-demand-international-community-stand-against)  
+* [Joint Statement: Over 150 Organizations Demand International Community Stand Against Raids and Closures of 7 Palestinian Organizations | Human Rights Watch](https://www.hrw.org/news/2022/08/22/joint-statement-over-150-organizations-demand-international-community-stand-against)  
+
+PLEASE SEND SUGGESTED ADDITIONS/REVISIONS TO:
+
+* INSTAGRAM: [MRUSFP](https://www.instagram.com/mrusfp/)
+* EMAIL: [mrusfp@gmail.com](mailto:mrusfp@gmail.com)
 
 ---
 
-PLEASE SEND SUGGESTED ADDITIONS/REVISIONS TO:
+## PLEASE SEND SUGGESTED ADDITIONS/REVISIONS TO:
 
 * INSTAGRAM: [MRUSFP](https://www.instagram.com/mrusfp/)
 * EMAIL: [mail@studentsforpalestine.org](mailto:mail@studentforpalestine.org) or [mrusfp@gmail.com](mailto:mrusfp@gmail.com)
